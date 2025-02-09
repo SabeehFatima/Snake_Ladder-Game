@@ -12,17 +12,11 @@ This is my **first C++ gaming project**, developed using **Code::Blocks IDE**. I
 - Simple console-based UI with automatic turns.  
 
 ## 📜 Game Rules  
-1. Each player rolls a dice to move forward.  
+1. Each player($ and #) rolls a dice to move forward.  
 2. Landing on a **ladder** moves the player **up**.  
 3. Landing on a **snake** moves the player **down**.  
 4. The first player to reach the final position **wins**.  
-
-## 🛠 Function Breakdown  
-- `rollDice()`: Simulates rolling a six-sided dice.  
-- `movePlayer()`: Updates the player's position on the board.  
-- `checkSnakeOrLadder()`: Checks if the player lands on a **snake or ladder**.  
-- `gameLoop()`: Runs the main game logic in a loop until a player wins.  
-
+ 
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```sh
