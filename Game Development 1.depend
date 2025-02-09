@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704127861 source:c:\users\hp\desktop\snakeladder\game development 1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<ctime>
+
