@@ -1,4 +1,3 @@
-# Snake_Ladder-Game
 # Snake and Ladder Game 🎲  
 
 This is my **first C++ gaming project**, developed using **Code::Blocks IDE**. It is a console-based **Snake and Ladder** game that simulates the classic board game experience.  
