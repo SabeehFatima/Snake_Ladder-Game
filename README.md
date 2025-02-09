@@ -22,6 +22,3 @@ This is my **first C++ gaming project**, developed using **Code::Blocks IDE**. I
    ```sh
    git clone https://github.com/SabeehFatima/Snake_Ladder-Game.git
    cd Snake_Ladder-Game
-
-   git clone https://github.com/SabeehFatima/Snake_Ladder-Game.git
-   cd Snake_Ladder-Game
