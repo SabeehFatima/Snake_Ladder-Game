@@ -17,9 +17,4 @@ This is my **first C++ gaming project**, developed using **Code::Blocks IDE**. I
 3. Landing on a **snake** moves the player **down**.  
 4. The first player to reach the final position **wins**.  
 
-
-## 🚀 How to Run  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/SabeehFatima/Snake_Ladder-Game.git
-   cd Snake_Ladder-Game
+Enjoy Snake&Ladder!!
